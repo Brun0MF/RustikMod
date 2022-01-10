@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C",
+    "ML"
+  ],
+  "key": {
+    "#": {
+      "item": "rustik:leaf"
+    },
+    "C": {
+      "item": "minecraft:glow_berries"
+    },
+    "M": {
+      "item": "minecraft:sugar"
+    },
+    "L": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "rustik:glowfruitjuice",
+    "count": 1
+  }
+}

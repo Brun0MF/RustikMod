@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P ",
+    "C#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gunpowder"
+    },
+    "C": {
+      "item": "minecraft:paper"
+    },
+    "P": {
+      "item": "rustik:ironball"
+    }
+  },
+  "result": {
+    "item": "rustik:bullet",
+    "count": 1
+  }
+}

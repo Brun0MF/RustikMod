@@ -1,0 +1,16 @@
+{
+
+  "item.rustik.rifle": "Rifle",
+  "item.rustik.bullet": "Bullet",
+  "item.rustik.ironball": "Iron Ball",
+  "item.rustik.ironbarrel": "Iron Barrel",
+  "item.rustik.sweetfruitjuice": "Sweet Fruit Juice",
+  "item.rustik.glowfruitjuice": "Glow Fruit Juice",
+  "item.rustik.pieceofleather": "Piece of Leather",
+  "item.rustik.boarspawnegg": "Boar Spawn Egg",
+  "item.rustik.azaleaflower": "Azalea Flower",
+  "item.rustik.leaf": "Leaf",
+  "entity.rustik.boar": "Boar",
+  "itemGroup.rustik": "Rustik"
+
+}

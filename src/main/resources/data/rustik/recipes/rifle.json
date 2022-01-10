@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBF",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:logs_that_burn"
+    },
+    "B": {
+      "item": "rustik:ironbarrel"
+    },
+    "F": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "rustik:rifle",
+    "count": 1
+  }
+}

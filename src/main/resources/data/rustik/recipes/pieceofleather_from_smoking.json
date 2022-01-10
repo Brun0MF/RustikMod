@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": "rustik:pieceofleather",
+  "experience": 0.20,
+  "cookingtime": 120
+}
